@@ -1,0 +1,3 @@
+/Users/caleb/Code/chess/c++v1/cmake-build-debug/CMakeFiles/c__v1.dir
+/Users/caleb/Code/chess/c++v1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/caleb/Code/chess/c++v1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
